@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Jovi!!
+- 👋 Hi, I’m Jovi!! I'm a junior developer and designer!! 
 - 👀 I’m interested in developing more React skills & strengthening my HTML/CSS abilities!
 - 🌱 I’m currently learning Java!
 - 💞️ I’m looking to collaborate on game development.
